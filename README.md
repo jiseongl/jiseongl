@@ -4,10 +4,10 @@
 ### Data Driven MKT Speciallist가 되고자 합니다 ###
 <br>
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🛠️ My Stacks
+&nbsp;&nbsp;&nbsp;&nbsp;🛠️ My Stacks
 <br>
 <br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/Mysql-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">&nbsp;<img src="https://img.shields.io/badge/Google&nbsp;Analytics-E37400?style=for-the-badge&logo=GoogleAnalytics&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"><img src="https://img.shields.io/badge/Mysql-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"><img src="https://img.shields.io/badge/Google&nbsp;Analytics-E37400?style=for-the-badge&logo=GoogleAnalytics&logoColor=white">
 
 <!--
 **jiseongl/jiseongl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
